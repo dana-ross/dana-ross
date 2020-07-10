@@ -1,5 +1,13 @@
 Pronouns: he/him
 
+What I'm currently working on:
+* Adrian, a web server for fonts. Kind of like your own personal Google Fonts.
+
+How to reach me:
+* dave@davidmichaelross.com
+* @csixty4 on Twitter
+* daveross@oldbytes.space on Mastodon
+
 <!--
 **daveross/daveross** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
