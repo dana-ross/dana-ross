@@ -2,6 +2,7 @@ Pronouns: he/him
 
 What I'm currently working on:
 * [Adrian](https://github.com/daveross/adrian), a web server for fonts. Kind of like your own personal Google Fonts.
+* Repairing a Macintosh Plus and two Commodore 64 monitors.
 
 How to reach me:
 * [dave@davidmichaelross.com](mailto:dave@davidmichaelross.com)
