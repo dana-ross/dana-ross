@@ -8,7 +8,7 @@ Skills: JavaScript/NodeJS : Go : PHP : HTML/CSS
 
 🔭 I’m currently working on [Adrian](https://github.com/daveross/adrian), a web server for fonts. Kind of like your own personal Google Fonts.
 
-🌱 I’m currently learning The React ecosystem and Go
+🌱 I’m currently learning The React ecosystem. I'm also going back and learning Go properly instead of picking up parts as I need them.
 
 👯 I’m looking to collaborate on Software that makes hosting your own stuff less daunting for regular folks
 
