@@ -1,31 +1,20 @@
-Pronouns: he/him
+### I'm Dave Ross
+#### and I love to build things.
+I'm an engineering leader, a certified accessibility professional, a runner, a feral cat socializer, and I love fixing and using vintage Commodore and Apple computers.
 
-My usual programming languages:
-* Go
-* TypeScript
-* JavaScript & NodeJS
-* PHP
+My pronouns are [he/him/his](http://pronoun.is/he/him/his)
 
-What I'm currently working on:
-* [Adrian](https://github.com/daveross/adrian), a web server for fonts. Kind of like your own personal Google Fonts.
-* Repairing a Macintosh Plus and two Commodore 64 monitors.
+Skills: JavaScript/NodeJS : Go : PHP : HTML/CSS
 
-How to reach me:
-* [dave@davidmichaelross.com](mailto:dave@davidmichaelross.com)
-* [@csixty4](https://twitter.com/csixty4) on Twitter
-* [daveross@oldbytes.space](https://oldbytes.space/@daveross) on Mastodon
+🔭 I’m currently working on [Adrian](https://github.com/daveross/adrian), a web server for fonts. Kind of like your own personal Google Fonts.
 
-<!--
-**daveross/daveross** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I’m currently learning The React ecosystem and Go
 
-Here are some ideas to get you started:
+👯 I’m looking to collaborate on Software that makes hosting your own stuff less daunting for regular folks
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 Ask me about Using & repairing vintage 1980s computers 📫 How to reach me: dave@davidmichaelross.com
+
+⚡ Fun fact: I volunteer with shy, feral, and abused cats to help them learn trust and go on to find the loving homes they deserve! 
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/daveross)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mail-dot-ru.svg' alt='website' height='40'>](https://davidmichaelross.com/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/david-michael-ross/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/csixty4)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mastodon.svg' alt='Mastodon — oldbytes.space' height='40'>](https://oldbytes.space/@daveross)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/csixty4/)
+
