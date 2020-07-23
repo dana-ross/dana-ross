@@ -20,17 +20,3 @@ Skills: JavaScript/NodeJS : Go : PHP : HTML/CSS
 ⚡ Fun fact: I volunteer with shy, feral, and abused cats to help them learn trust and go on to find the loving homes they deserve! 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/daveross)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mail-dot-ru.svg' alt='website' height='40'>](https://davidmichaelross.com/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/david-michael-ross/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/csixty4)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mastodon.svg' alt='Mastodon — oldbytes.space' height='40'>](https://oldbytes.space/@daveross)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/csixty4/)
-
-### My workspace
-
-* SHW Electric Height Adjustable Computer Desk
-* MacBook Pro 16" for work
-* Dell e7250 running Elementary OS for personal use
-* 23" Dell monitor
-* Mechanical USB keyboard & an Apple Bluetooth keyboard for when I need to be quiet
-* Blu Snowball microphone with pop filter
-* WALKINGPAD A1 Smart Folding Under-desk Treadmill
-* Stainless steel water bottle
-* Soda cans and coffee cups
-* A drafting chair I got off Craigslist
-* Wireless phone charger
