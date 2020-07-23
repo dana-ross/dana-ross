@@ -15,11 +15,7 @@ Skills: JavaScript/NodeJS : Go : PHP : HTML/CSS
 
 🌱 I’m currently learning The React ecosystem. I'm also going back and learning Go properly instead of picking up parts as I need them.
 
-👯 I’m looking to collaborate on Software that makes hosting your own stuff less daunting for regular folks
-
-💬 Ask me about Using & repairing vintage 1980s computers
-
-📫 How to reach me: dave@davidmichaelross.com
+👯 I’m looking to collaborate on software that makes it less daunting for regular folks to host their own applications.
 
 ⚡ Fun fact: I volunteer with shy, feral, and abused cats to help them learn trust and go on to find the loving homes they deserve! 
 
