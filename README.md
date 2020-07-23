@@ -2,7 +2,7 @@
 
 This is a stock photo of a desk. It's a really nice desk, don't get me wrong. It's so tidy.
 
-This desk looks nothing like my real desk. They say the state of someone's desk reflects their state of mind. My desk reflects a mind and body in motion. It's where I *work* and it's where I *work out*. It's not messy, but it's crowded. It's where I take on many of my work and personal projects.
+My desk looks nothing like this. They say the state of someone's desk reflects their state of mind. My desk reflects a mind and body in motion. It's where I *work* and it's where I *work out*. It's not messy, but it's crowded. It's where I take on many of my work and personal projects.
 
 ### About me
 I'm an engineering leader, a certified accessibility professional, a runner, a feral cat socializer, and I love fixing and using vintage Commodore and Apple computers.
