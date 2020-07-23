@@ -12,7 +12,9 @@ Skills: JavaScript/NodeJS : Go : PHP : HTML/CSS
 
 👯 I’m looking to collaborate on Software that makes hosting your own stuff less daunting for regular folks
 
-💬 Ask me about Using & repairing vintage 1980s computers 📫 How to reach me: dave@davidmichaelross.com
+💬 Ask me about Using & repairing vintage 1980s computers
+
+📫 How to reach me: dave@davidmichaelross.com
 
 ⚡ Fun fact: I volunteer with shy, feral, and abused cats to help them learn trust and go on to find the loving homes they deserve! 
 
