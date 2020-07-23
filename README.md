@@ -1,5 +1,4 @@
-### I'm Dave Ross and I love to build things.
-#### Things that everybody can use. Things that empower. Things that are fun.
+<img src="https://raw.githubusercontent.com/daveross/daveross/master/profile%20banner.jpg" width="100%" />
 
 I'm an engineering leader, a certified accessibility professional, a runner, a feral cat socializer, and I love fixing and using vintage Commodore and Apple computers.
 
