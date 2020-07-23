@@ -1,6 +1,8 @@
 <img src="https://raw.githubusercontent.com/daveross/daveross/master/profile%20banner.jpg" width="100%" alt="Picture of a very clean and tidy desk in a white room. Text reads I'm Dave Ross and this is not my desk." />
 
-My desk reflects a mind and body in motion. It's where I *work* and it's where I *work out*.
+This is a stock photo of a desk. It's a really nice desk, don't get me wrong. It's so tidy.
+
+This desk looks nothing like my real desk. They say the state of someone's desk reflects their state of mind. My desk reflects a mind and body in motion. It's where I *work* and it's where I *work out*. It's not messy, but it's crowded. It's where I take on many of my work and personal projects.
 
 ### About me
 I'm an engineering leader, a certified accessibility professional, a runner, a feral cat socializer, and I love fixing and using vintage Commodore and Apple computers.
