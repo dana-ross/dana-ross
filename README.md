@@ -1,5 +1,8 @@
-<img src="https://raw.githubusercontent.com/daveross/daveross/master/profile%20banner.jpg" width="100%" />
+<img src="https://raw.githubusercontent.com/daveross/daveross/master/profile%20banner.jpg" width="100%" alt="Picture of a very clean and tidy desk in a white room. Text reads I'm Dave Ross and this is not my desk." />
 
+My desk reflects a mind and body in motion. It's where I *work* and it's where I *work out*.
+
+### About me
 I'm an engineering leader, a certified accessibility professional, a runner, a feral cat socializer, and I love fixing and using vintage Commodore and Apple computers.
 
 My pronouns are [he/him/his](http://pronoun.is/he/him/his)
