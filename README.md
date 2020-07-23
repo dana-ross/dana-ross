@@ -1,5 +1,6 @@
-### I'm Dave Ross
-#### and I love to build things.
+### I'm Dave Ross and I love to build things.
+#### Things that everybody can use. Things that empower. Things that are fun.
+
 I'm an engineering leader, a certified accessibility professional, a runner, a feral cat socializer, and I love fixing and using vintage Commodore and Apple computers.
 
 My pronouns are [he/him/his](http://pronoun.is/he/him/his)
