@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/daveross/daveross/master/profile%20banner.jpg" width="100%" alt="Picture of a very clean and tidy desk in a white room. Text reads I'm Dana Ross and this is not my desk." />
+<img src="https://raw.githubusercontent.com/dana-ross/dana-ross/master/profile%20banner.jpg" width="100%" alt="Picture of a very clean and tidy desk in a white room. Text reads I'm Dana Ross and this is not my desk." />
 
 This is a stock photo of a desk. It's a really nice desk, don't get me wrong. It's so tidy.
 
